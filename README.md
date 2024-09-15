@@ -1,4 +1,7 @@
-# NanoRAG
+# NanoRAG: Simple implementation of Retrieval-Augmented Generation System
+
+[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
 RAG (Retrieval-augmented Generation) is a widely used technique in the field of NLP (Natural Language Processing) and is a highly popular topic in both academia and industry. However, current RAG systems (such as [Langchain](https://github.com/langchain-ai/langchain)) involve significant engineering effort and a large number of parameters, which can be challenging for beginners to learn. Therefore, the original intent of this project is to utilize the simplest and most classic techniques to build a RAG system from scratch, providing code implementations for key steps only.
 
@@ -18,20 +21,14 @@ With the emergence of LLM, decoder-only generators have become popular. This pro
 
 ## Todolist
 
-<input type="checkbox" checked> 
-<label>DPR实现</label><br>
+- [x] DPR实现
 
-<input type="checkbox" disabled> 
-<label>DPR的inference出doc原文</label>
+- [ ] DPR的inference出doc原文
 
-<input type="checkbox" disabled> 
-<label>Generator实现</label>
+- [ ] Generator实现
 
-<input type="checkbox" disabled> 
-<label>几个benchmark上测试</label>
+- [ ] 几个benchmark上测试
 
-<input type="checkbox" disabled> 
-<label>database拓展成最新的wikidump</label>
+- [ ] database拓展成最新的wikidump
 
-<input type="checkbox" disabled> 
-<label>支持图片输入</label>
+v支持图片输入
