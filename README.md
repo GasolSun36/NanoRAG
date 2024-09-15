@@ -31,4 +31,4 @@ With the emergence of LLM, decoder-only generators have become popular. This pro
 
 - [ ] database拓展成最新的wikidump
 
-v支持图片输入
+- [ ] 支持图片输入
