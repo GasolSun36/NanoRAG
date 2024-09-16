@@ -1,5 +1,7 @@
 # NanoRAG: Simple implementation of Retrieval-Augmented Generation System
 
+<img src="assets/logo.jpg" alt="NanoRAG" style="width: 10%; vertical-align: middle;"> NanoRAG: Simple implementation of Retrieval-Augmented Generation System</p>
+
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
