@@ -1,0 +1,1 @@
+python inference.py --embedding_dir embedding/DPR --pretrained_model_path step-73600/query_encoder/ \
