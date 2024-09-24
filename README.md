@@ -23,14 +23,14 @@ With the emergence of LLM, decoder-only generators have become popular. This pro
 
 ## Todolist
 
-- [x] DPR实现
+- [x] DPR implementation.
 
-- [ ] DPR的inference出doc原文
+- [x] Concat docs with DPR inference.
 
-- [ ] Generator实现
+- [x] Generator implementation.
 
-- [ ] 几个benchmark上测试
+- [ ] test on serveal benchmarks
 
-- [ ] database拓展成最新的wikidump
+- [ ] update to recent wiki dump
 
-- [ ] 支持图片输入
+- [ ] multi-modal input retrieval
