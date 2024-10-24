@@ -23,9 +23,9 @@ With the emergence of LLM, decoder-only generators have become popular. This pro
 
 ## Todolist
 
-- [x] DPR implementation.
+- [x] Retriever implementation.
 
-- [x] Concat docs with DPR inference.
+- [x] Concat docs with Retriever inference.
 
 - [x] Generator implementation.
 
