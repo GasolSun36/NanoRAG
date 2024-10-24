@@ -130,8 +130,6 @@ if __name__ == '__main__':
         doc_lists.append(doc)
 
     if args.model == 'gpt':
-
-
         openai.api_type = "azure"
         openai.api_base = os.environ.get("AZURE_OPENAI_API_BASE")
         openai.api_version = "2023-12-01-preview"

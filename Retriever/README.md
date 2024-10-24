@@ -1,4 +1,4 @@
-# nanoDPR
+# Retriever
 
 ## Requirements
 ```bash
@@ -85,16 +85,5 @@ We have processed the latest Wikipedia dump and converted it into a tsv file. Yo
 
 > It is worth noting that since the NQ dataset used for training may have a different data distribution from the latest Wikipedia dump, the final retrieved text effect will be worse. However, since we divide the blocks by overlapping 10 tokens + 100 tokens per context, we can increase the number of topn, such as top-30.
 
-
-
 Now, we can test our nanoRAG system.
 
-## Testing NanoRAG
-
-We can test the nanoRAG system using:
-
-```
-sh inference.sh
-```
-
-You can define your own questions in `queries`, give it a try!
