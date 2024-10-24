@@ -29,8 +29,6 @@ With the emergence of LLM, decoder-only generators have become popular. This pro
 
 - [x] Generator implementation.
 
-- [ ] test on serveal benchmarks
-
-- [ ] update to recent wiki dump
+- [x] update to recent wiki dump
 
 - [ ] multi-modal input retrieval

@@ -1,0 +1,6 @@
+transformers
+accelerate
+wandb
+wget
+spacy
+faiss-gpu
